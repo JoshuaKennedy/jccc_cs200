@@ -1,0 +1,243 @@
+TstringCompare
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.o /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/stringCompare/stringCompare.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Products/Debug/stringCompare normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005248823200000000000004B3
+t1380483634
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005248823200000000000001DE
+t1380483634
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+c0000000052488235000000000000654C
+t1380483637
+s25932
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libc++.dylib
+c00000000524882350000000000064CE0
+t1380483637
+s412896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+c00000000524882350000000000004528
+t1380483637
+s17704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052488235000000000000EDB8
+t1380483637
+s60856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052488235000000000000984C
+t1380483637
+s38988
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+c00000000524882350000000000004FEC
+t1380483637
+s20460
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+c00000000524882350000000000009F64
+t1380483637
+s40804
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+c000000005248823500000000000031D0
+t1380483637
+s12752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+c000000005248823500000000000052E4
+t1380483637
+s21220
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+c00000000524882350000000000002D34
+t1380483637
+s11572
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+c000000005248823500000000000084E8
+t1380483637
+s34024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+c00000000524882350000000000004FF4
+t1380483637
+s20468
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+c000000005248823500000000000047A4
+t1380483637
+s18340
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+c00000000524882350000000000004364
+t1380483637
+s17252
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000524882350000000000002EF0
+t1380483637
+s12016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+c00000000524882350000000000046BB8
+t1380483637
+s289720
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+c000000005248823500000000000067BC
+t1380483637
+s26556
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+c0000000052488235000000000001AD9C
+t1380483637
+s109980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000524882350000000000016C74
+t1380483637
+s93300
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052488235000000000000F204
+t1380483637
+s61956
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+c00000000524882350000000000008EC8
+t1380483637
+s36552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000524882350000000000008B14
+t1380483637
+s35604
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+c000000005248823500000000000047C0
+t1380483637
+s18368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+c000000005248823500000000000044D8
+t1380483637
+s17624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+c000000005248823500000000000067AC
+t1380483637
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+c00000000524882350000000000011E4C
+t1380483637
+s73292
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c00000000524882350000000000001750
+t1380483637
+s5968
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.LinkFileList
+c0000000052630B5000000000000000BF
+t1382222672
+s191
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.o
+t1382227974
+s87056
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare/DerivedData/stringCompare/Build/Products/Debug/stringCompare
+t1382227974
+s22052
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare/stringCompare/stringCompare.cpp
+c00000000526320060000000000000649
+t1382227974
+s1609
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/stringCompare/main.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/stringCompare/stringCompare.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd2aa568c5713b841^aa0c578c5713b841^---0#1#1#--18"Check dependencies36"BB9FD04F-879D-425F-817B-DCD73062049F-
+
+CCompileC DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/stringCompare/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.o /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/stringCompare/stringCompare.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s403920774.323275
+e403920774.704398
+r1
+xCompileC
+xDerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.o
+x/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare/stringCompare/stringCompare.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare/stringCompare/stringCompare.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/joshuakennedy/Documents/Projects/CS 200/stringCompare/stringCompare/stringCompare.cpp232"CompileC DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.o stringCompare/stringCompare.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler6ad952865713b841^205db4865713b841^---0#0#1#-19%DVTDocumentLocation2@110"file://localhost/Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare/stringCompare/stringCompare.cpp0000000000000000^3630"CompileC DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.o stringCompare/stringCompare.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/stringCompare-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/stringCompare-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/stringCompare-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/stringCompare-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.dia -c /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/stringCompare/stringCompare.cpp -o /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.o36"C9E5E207-C506-4AB9-9B38-ECA77A4DC739-
+b345F17EC-8E93-4E76-B681-29BBC77F63CB
+
+CLd /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Products/Debug/stringCompare normal x86_64
+s403920774.713172
+e403920774.733624
+r1
+xLd
+x/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare/DerivedData/stringCompare/Build/Products/Debug/stringCompare
+xnormal
+xx86_64
+d/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.LinkFileList
+d/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/joshuakennedy/Documents/Projects/CS 200/stringCompare/DerivedData/stringCompare/Build/Products/Debug/stringCompare77"Ld DerivedData/stringCompare/Build/Products/Debug/stringCompare normal x86_64cfa3b6865713b841^81cfbb865713b841^---0#0#1#--1257"Ld DerivedData/stringCompare/Build/Products/Debug/stringCompare normal x86_64    cd "/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Products/Debug -F/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Products/Debug -filelist /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Intermediates/stringCompare.build/Debug/stringCompare.build/Objects-normal/x86_64/stringCompare_dependency_info.dat -o /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare/DerivedData/stringCompare/Build/Products/Debug/stringCompare36"79084742-A278-4A61-B4EE-46F5322F4DAB-
+b345F17EC-8E93-4E76-B681-29BBC77F63CB
+

@@ -1,0 +1,61 @@
+Tpointer
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/Objects-normal/x86_64/pointer.o /Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/pointer/pointer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/pointer/DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/Objects-normal/x86_64/pointer.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/pointer/pointer/pointer.cpp
+c00000000527AB8EA0000000000000816
+t1383774442
+s2070
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/pointer/main.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/pointer/pointer.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese2ad9771f02ab841^32909b71f02ab841^---0#1#1#--18"Check dependencies36"B2193B37-EF15-4ED6-8D4A-D8C3F1386E14-
+
+CCompileC DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/pointer/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/Objects-normal/x86_64/pointer.o /Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/pointer/pointer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s405467249.608309
+e405467249.953021
+r0
+xCompileC
+xDerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/Objects-normal/x86_64/pointer.o
+x/Users/joshuakennedy/Documents/Projects/CS 200/pointer/pointer/pointer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CS 200/pointer/pointer/pointer.cpp
+o/Users/joshuakennedy/Documents/Projects/CS 200/pointer/pointer/pointer.cpp:25:1: error: 'main' must return 'int'
+ovoid main()
+o^~~~
+oint
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/joshuakennedy/Documents/Projects/CS 200/pointer/pointer/pointer.cpp196"CompileC DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/Objects-normal/x86_64/pointer.o pointer/pointer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4bcc9b71f02ab841^98f8f371f02ab841^-153"/Users/joshuakennedy/Documents/Projects/CS 200/pointer/pointer/pointer.cpp:25:1: error: 'main' must return 'int'void main()^~~~int1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@24"'main' must return 'int'-405467249#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@83"file:///Users/joshuakennedy/Documents/Projects/CS%20200/pointer/pointer/pointer.cpp0000000000000000^24#0#24#0#469#0#14"Semantic Issue1(3@83"file:///Users/joshuakennedy/Documents/Projects/CS%20200/pointer/pointer/pointer.cpp0000000000000000^24#0#24#4#469#4#-0#0#1#-19%DVTDocumentLocation4@83"file:///Users/joshuakennedy/Documents/Projects/CS%20200/pointer/pointer/pointer.cpp0000000000000000^3288"CompileC DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/Objects-normal/x86_64/pointer.o pointer/pointer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CS 200/pointer"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/pointer-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/pointer-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/pointer-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/pointer-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/DerivedData/pointer/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/DerivedData/pointer/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/Objects-normal/x86_64/pointer.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/Objects-normal/x86_64/pointer.dia -c /Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/pointer/pointer.cpp -o /Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/DerivedData/pointer/Build/Intermediates/pointer.build/Debug/pointer.build/Objects-normal/x86_64/pointer.o36"933F8B18-637D-46DD-AD97-178220F46EF3-
+b07E421F2-9817-4D3B-9554-34D797CC5FCC
+
+CLd /Users/joshuakennedy/Documents/Projects/CS\ 200/pointer/DerivedData/pointer/Build/Products/Debug/pointer normal x86_64
+r0
+

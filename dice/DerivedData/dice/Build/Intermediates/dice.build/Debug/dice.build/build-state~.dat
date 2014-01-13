@@ -1,0 +1,108 @@
+Tdice
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.o /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/dice/dice.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Products/Debug/dice normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005248823200000000000004B3
+t1380483634
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005248823200000000000001DE
+t1380483634
+s478
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.LinkFileList
+c000000005259910C0000000000000092
+t1381601548
+s146
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.o
+t1381601548
+s80160
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/dice/DerivedData/dice/Build/Products/Debug/dice
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/dice/dice/dice.cpp
+c000000005259910C00000000000006EE
+t1381601548
+s1774
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/dice/dice.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/dice/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc95a878cc809b841^3f70898cc809b841^---0#1#1#--18"Check dependencies36"877E9FA3-2FC2-4B9D-A8B0-B974D089980E-
+
+CCompileC DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.o /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/dice/dice.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s403294348.538699
+e403294348.970137
+r1
+xCompileC
+xDerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.o
+x/Users/joshuakennedy/Documents/Projects/CS 200/dice/dice/dice.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CS 200/dice/dice/dice.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/joshuakennedy/Documents/Projects/CS 200/dice/dice/dice.cpp178"CompileC DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.o dice/dice.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerc2fc898cc809b841^0514028dc809b841^---0#0#1#-19%DVTDocumentLocation2@83"file://localhost/Users/joshuakennedy/Documents/Projects/CS%20200/dice/dice/dice.cpp0000000000000000^3117"CompileC DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.o dice/dice.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CS 200/dice"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/dice-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/dice-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/dice-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/dice-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.dia -c /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/dice/dice.cpp -o /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.o36"6B40E7B7-26F5-4673-93A9-E8EAA2DFAE1B-
+b6129E362-BBD2-40E6-9265-F8A9D44D783A
+
+CCompileC DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/dice/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Products/Debug/dice normal x86_64
+s403294348.978477
+e403294349.051854
+r1
+xLd
+x/Users/joshuakennedy/Documents/Projects/CS 200/dice/DerivedData/dice/Build/Products/Debug/dice
+xnormal
+xx86_64
+d/Users/joshuakennedy/Documents/Projects/CS 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.LinkFileList
+d/Users/joshuakennedy/Documents/Projects/CS 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Link /Users/joshuakennedy/Documents/Projects/CS 200/dice/DerivedData/dice/Build/Products/Debug/dice59"Ld DerivedData/dice/Build/Products/Debug/dice normal x86_64c18bfa8cc809b841^06470d8dc809b841^---0#0#1#--1077"Ld DerivedData/dice/Build/Products/Debug/dice normal x86_64    cd "/Users/joshuakennedy/Documents/Projects/CS 200/dice"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Products/Debug -F/Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Products/Debug -filelist /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Intermediates/dice.build/Debug/dice.build/Objects-normal/x86_64/dice_dependency_info.dat -o /Users/joshuakennedy/Documents/Projects/CS\ 200/dice/DerivedData/dice/Build/Products/Debug/dice36"EC0836DD-B0C2-4BC2-97E6-51BCE2863E77-
+b6129E362-BBD2-40E6-9265-F8A9D44D783A
+

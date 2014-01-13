@@ -1,0 +1,60 @@
+Tholidays
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/Objects-normal/x86_64/holidays.o /Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/holidays/holidays.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/holidays/DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/Objects-normal/x86_64/holidays.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/holidays/holidays/holidays.cpp
+c000000005294F2880000000000000A41
+t1385493128
+s2625
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/holidays/holidays.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/holidays/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies22fe1d082a45b841^96e820082a45b841^---0#1#1#--18"Check dependencies36"9355F086-694C-4A58-B799-27C727F10F91-
+
+CCompileC DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/Objects-normal/x86_64/holidays.o /Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/holidays/holidays.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s407185928.131391
+e407185928.668483
+r0
+xCompileC
+xDerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/Objects-normal/x86_64/holidays.o
+x/Users/joshuakennedy/Documents/Projects/CS 200/holidays/holidays/holidays.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CS 200/holidays/holidays/holidays.cpp
+o/Users/joshuakennedy/Documents/Projects/CS 200/holidays/holidays/holidays.cpp:78:25: error: assigning to 'char *' from incompatible type 'char const[81]'
+o            holidayCopy = holidayList[i].holiday;
+o                        ^ ~~~~~~~~~~~~~~~~~~~~~~
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/joshuakennedy/Documents/Projects/CS 200/holidays/holidays/holidays.cpp202"CompileC DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/Objects-normal/x86_64/holidays.o holidays/holidays.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler2bfc21082a45b841^3e21ab082a45b841^-272"/Users/joshuakennedy/Documents/Projects/CS 200/holidays/holidays/holidays.cpp:78:25: error: assigning to 'char *' from incompatible type 'char const[81]'            holidayCopy = holidayList[i].holiday;                        ^ ~~~~~~~~~~~~~~~~~~~~~~1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@61"Assigning to 'char *' from incompatible type 'char const[81]'-407185928#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@86"file:///Users/joshuakennedy/Documents/Projects/CS%20200/holidays/holidays/holidays.cpp0000000000000000^77#24#77#24#2414#0#14"Semantic Issue1(3@86"file:///Users/joshuakennedy/Documents/Projects/CS%20200/holidays/holidays/holidays.cpp0000000000000000^77#26#77#48#2416#15#-0#0#1#-19%DVTDocumentLocation4@86"file:///Users/joshuakennedy/Documents/Projects/CS%20200/holidays/holidays/holidays.cpp0000000000000000^3345"CompileC DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/Objects-normal/x86_64/holidays.o holidays/holidays.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CS 200/holidays"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/holidays-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/holidays-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/holidays-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/holidays-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/DerivedData/holidays/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/DerivedData/holidays/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/Objects-normal/x86_64/holidays.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/Objects-normal/x86_64/holidays.dia -c /Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/holidays/holidays.cpp -o /Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/Objects-normal/x86_64/holidays.o36"E90B96F5-C843-458E-AE98-1AD956D47E4C-
+bAB312C68-321D-45AC-AE83-27C7FBE3D29E
+
+CCompileC DerivedData/holidays/Build/Intermediates/holidays.build/Debug/holidays.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/holidays/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/joshuakennedy/Documents/Projects/CS\ 200/holidays/DerivedData/holidays/Build/Products/Debug/holidays normal x86_64
+r0
+

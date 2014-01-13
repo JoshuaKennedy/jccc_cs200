@@ -1,0 +1,75 @@
+TstringCompare2
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/Objects-normal/x86_64/stringCompare2.o /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/stringCompare2/stringCompare2.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c000000005267AA6D000000000000044C
+t1382525549
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267AA6D00000000000001DB
+t1382525549
+s475
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/Objects-normal/x86_64/stringCompare2.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp
+c00000000527AB6020000000000000634
+t1383773698
+s1588
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/stringCompare2/main.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/stringCompare2/stringCompare2.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5e84b184ed2ab841^70b4b384ed2ab841^---0#1#1#--18"Check dependencies36"0D839D84-8498-4087-A05C-4612C256F34A-
+
+CCompileC DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/stringCompare2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/Objects-normal/x86_64/stringCompare2.o /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/stringCompare2/stringCompare2.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s405466500.706125
+e405466501.213862
+r0
+xCompileC
+xDerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/Objects-normal/x86_64/stringCompare2.o
+x/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp
+o/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp:41:34: warning: comparison between NULL and non-pointer ('const char' and NULL) [-Wnull-arithmetic]
+o    while ((str1 != NULL && str2 != NULL) || (*str1 == *str2))
+o                            ~~~~ ^  ~~~~
+o/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp:41:56: error: indirection requires pointer operand ('int' invalid)
+o    while ((str1 != NULL && str2 != NULL) || (*str1 == *str2))
+o                                                       ^~~~~
+o/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp:43:30: error: indirection requires pointer operand ('int' invalid)
+o        if (*str1 == '\0' && *str2 == '\0' )
+o                             ^~~~~
+o/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp:47:13: error: read-only variable is not assignable
+o        str2++;
+o        ~~~~^
+o/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp:53:17: error: indirection requires pointer operand ('int' invalid)
+o    if (*str1 > *str2)
+o                ^~~~~
+o/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp:55:14: error: indirection requires pointer operand ('int' invalid)
+o    else if (*str2 > *str1)
+o             ^~~~~
+o1 warning and 5 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp238"CompileC DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/Objects-normal/x86_64/stringCompare2.o stringCompare2/stringCompare2.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler81e9b484ed2ab841^cfbe3685ed2ab841^-1459"/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp:41:34: warning: comparison between NULL and non-pointer ('const char' and NULL) [-Wnull-arithmetic]    while ((str1 != NULL && str2 != NULL) || (*str1 == *str2))                            ~~~~ ^  ~~~~/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp:41:56: error: indirection requires pointer operand ('int' invalid)    while ((str1 != NULL && str2 != NULL) || (*str1 == *str2))                                                       ^~~~~/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp:43:30: error: indirection requires pointer operand ('int' invalid)        if (*str1 == '\0' && *str2 == '\0' )                             ^~~~~/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp:47:13: error: read-only variable is not assignable        str2++;        ~~~~^/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp:53:17: error: indirection requires pointer operand ('int' invalid)    if (*str1 > *str2)                ^~~~~/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2/stringCompare2/stringCompare2.cpp:55:14: error: indirection requires pointer operand ('int' invalid)    else if (*str2 > *str1)             ^~~~~1 warning and 5 errors generated.6(36%IDEClangDiagnosticActivityLogMessage2@63"Comparison between NULL and non-pointer ('const char' and NULL)-405466501#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^40#33#40#33#1136#0#14"Semantic Issue2(3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^40#28#40#32#1131#0#3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^40#36#40#40#1139#0#-2@52"Indirection requires pointer operand ('int' invalid)-405466501#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^40#55#40#55#1158#0#14"Semantic Issue1(3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^40#56#40#60#1159#0#-2@52"Indirection requires pointer operand ('int' invalid)-405466501#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^42#29#42#29#1201#0#14"Semantic Issue1(3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^42#30#42#34#1202#0#-2@36"Read-only variable is not assignable-405466501#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^46#12#46#12#1276#0#14"Semantic Issue1(3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^46#8#46#12#1272#0#-2@52"Indirection requires pointer operand ('int' invalid)-405466501#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^52#16#52#16#1461#0#14"Semantic Issue1(3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^52#17#52#21#1462#0#-2@52"Indirection requires pointer operand ('int' invalid)-405466501#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^54#13#54#13#1499#0#14"Semantic Issue1(3@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^54#14#54#18#1500#0#-0#0#1#-19%DVTDocumentLocation4@104"file:///Users/joshuakennedy/Documents/Projects/CS%20200/stringCompare2/stringCompare2/stringCompare2.cpp0000000000000000^3687"CompileC DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/Objects-normal/x86_64/stringCompare2.o stringCompare2/stringCompare2.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CS 200/stringCompare2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/stringCompare2-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/stringCompare2-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/stringCompare2-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/stringCompare2-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/DerivedData/stringCompare2/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/DerivedData/stringCompare2/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/Objects-normal/x86_64/stringCompare2.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/Objects-normal/x86_64/stringCompare2.dia -c /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/stringCompare2/stringCompare2.cpp -o /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/DerivedData/stringCompare2/Build/Intermediates/stringCompare2.build/Debug/stringCompare2.build/Objects-normal/x86_64/stringCompare2.o36"A26C2DE7-FE69-4013-A7DD-02BFF1B907EC-
+b3E2A2768-16FE-4703-9D60-C68F221CEBA1
+
+CLd /Users/joshuakennedy/Documents/Projects/CS\ 200/stringCompare2/DerivedData/stringCompare2/Build/Products/Debug/stringCompare2 normal x86_64
+r0
+

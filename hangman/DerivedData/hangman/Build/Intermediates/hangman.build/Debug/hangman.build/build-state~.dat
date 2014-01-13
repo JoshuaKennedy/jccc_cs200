@@ -1,0 +1,60 @@
+Thangman
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/Objects-normal/x86_64/hangman.o /Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/hangman/hangman.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005248823200000000000004B3
+t1380483634
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005248823200000000000001DE
+t1380483634
+s478
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/hangman/DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/Objects-normal/x86_64/hangman.o
+t2
+s0
+
+N/Users/joshuakennedy/Documents/Projects/CS 200/hangman/hangman/hangman.cpp
+c000000005263FDFC0000000000000D3B
+t1382284796
+s3387
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/hangman/hangman.cpp
+r0
+
+CBuild AST from /Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/hangman/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese604b57c3514b841^67d2b67c3514b841^---0#1#1#--18"Check dependencies36"53131336-C0F0-4B59-89C1-32C59FD6EC7B-
+
+CCompileC DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/Objects-normal/x86_64/hangman.o /Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/hangman/hangman.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s403977596.715829
+e403977597.217246
+r0
+xCompileC
+xDerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/Objects-normal/x86_64/hangman.o
+x/Users/joshuakennedy/Documents/Projects/CS 200/hangman/hangman/hangman.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/joshuakennedy/Documents/Projects/CS 200/hangman/hangman/hangman.cpp
+o/Users/joshuakennedy/Documents/Projects/CS 200/hangman/hangman/hangman.cpp:136:1: error: control reaches end of non-void function [-Werror,-Wreturn-type]
+o}
+o^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/joshuakennedy/Documents/Projects/CS 200/hangman/hangman/hangman.cpp196"CompileC DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/Objects-normal/x86_64/hangman.o hangman/hangman.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler215ab77c3514b841^d89c377d3514b841^-177"/Users/joshuakennedy/Documents/Projects/CS 200/hangman/hangman/hangman.cpp:136:1: error: control reaches end of non-void function [-Werror,-Wreturn-type]}^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@40"Control reaches end of non-void function-403977597#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@92"file://localhost/Users/joshuakennedy/Documents/Projects/CS%20200/hangman/hangman/hangman.cpp0000000000000000^135#0#135#0#3386#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@92"file://localhost/Users/joshuakennedy/Documents/Projects/CS%20200/hangman/hangman/hangman.cpp0000000000000000^3288"CompileC DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/Objects-normal/x86_64/hangman.o hangman/hangman.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/joshuakennedy/Documents/Projects/CS 200/hangman"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/hangman-generated-files.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/hangman-own-target-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/hangman-all-target-headers.hmap -iquote /Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/hangman-project-headers.hmap -I/Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/DerivedData/hangman/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/DerivedSources/x86_64 -I/Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/DerivedSources -F/Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/DerivedData/hangman/Build/Products/Debug -MMD -MT dependencies -MF /Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/Objects-normal/x86_64/hangman.d --serialize-diagnostics /Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/Objects-normal/x86_64/hangman.dia -c /Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/hangman/hangman.cpp -o /Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/Objects-normal/x86_64/hangman.o36"67FF68F5-1A50-47DB-AA85-273DCB4C3F27-
+bC4425EBE-3C95-4B91-ADD9-B4E5E2495AA1
+
+CCompileC DerivedData/hangman/Build/Intermediates/hangman.build/Debug/hangman.build/Objects-normal/x86_64/main.o /Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/hangman/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/joshuakennedy/Documents/Projects/CS\ 200/hangman/DerivedData/hangman/Build/Products/Debug/hangman normal x86_64
+r0
+
